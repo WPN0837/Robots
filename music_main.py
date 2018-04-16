@@ -7,7 +7,6 @@ import os.path
 
 import song
 import playlist
-import get_comments
 import connection_mysql
 def entry_playlist(purl):
 	id=purl[-10:]
